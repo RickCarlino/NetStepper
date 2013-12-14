@@ -13,3 +13,6 @@ Up and Running
  3. Run `bundle install` and then `ruby main.rb`
 
  4. Visit http://localhost:4567/forward/200 or http://localhost:4567/backward/200 . It should have moved.
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/rickcarlino/netstepper/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
